@@ -102,7 +102,7 @@ Visit: `http://localhost:9000/api/student`
 Expected output:
 ```json
 {
-  "name": "Aishwarya Naidu",
+  "name": "YOUR_NAME",
   "studentId": "YOUR_STUDENT_ID"
 }
 ```
